@@ -2,6 +2,7 @@ body {
   background: #2C2B3D;
   font-family: 'JetBrains Mono', monospace;
   color: #fff;
+  margin: 0;
 }
 
 .page {

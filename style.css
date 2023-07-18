@@ -36,6 +36,10 @@ ul li {
   line-height: 28px;
 }
 
+ul li a:hover {
+  color: #bebebe;
+}
+
 main {
   display: flex;
   justify-content: space-between;
